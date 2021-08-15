@@ -1,0 +1,3 @@
+# Julio Estuardo Solorzano Sosa
+## 202010312
+### INTRODUCCION A LA PROGRAMACION Y COMPUTACION 2 Sección E
